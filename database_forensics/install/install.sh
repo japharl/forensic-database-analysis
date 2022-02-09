@@ -20,5 +20,6 @@ sudo cpanm DBD::SQLite
 sudo apt install -y sqlite3
 
 cd ..
+mkdir -p lab/lab3
 cd lab/lab3/
 git clone https://github.com/major/MySQLTuner-perl.git
